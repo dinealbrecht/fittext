@@ -1,4 +1,12 @@
-/* global exports, document, window */
+/*! 
+* FitText.js 1.0 version minus JQuery
+*
+* Copyright 2013, Dine Albrecht http://dinealbrecht.com 
+* Released under the MIT license 
+* https://github.com/dinealbrecht/fittext
+*
+* Date: 20th Jan 2014 20:00:54 GMT+0000
+*/
 
 (function(exports, _) {
     'use strict';
